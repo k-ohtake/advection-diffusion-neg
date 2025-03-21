@@ -3,15 +3,7 @@
 This repository provides simulation codes for an evolution equation discussed in the following paper.  
 I would appreciate your citing the following paper when you publish your results using this code.
 
-@misc{ohtake2024patternformationadvectiondiffusionnew,
-      title={Pattern formation by advection-diffusion in new economic geography}, 
-      author={Kensuke Ohtake},
-      year={2024},
-      eprint={2407.05804},
-      archivePrefix={arXiv},
-      primaryClass={econ.TH},
-      url={https://arxiv.org/abs/2407.05804}, 
-}
+Ohtake, K. (2024). Pattern formation by advection-diffusion in new economic geography. arXiv preprint arXiv:2407.05804.
 
 # Overview
 
@@ -27,3 +19,6 @@ Plots ver. 1.40.2
 
 # How to use
 
+In the second cell, specify the values of $\tau>0$ as the list used in the outer loop.  
+Then, specify parameters $\mu\in(0,1)$ and $\sigma>1$ in the list used in the inner loop.  
+For a set of parameters, five simulations are performed for randomly generated initial values.  
