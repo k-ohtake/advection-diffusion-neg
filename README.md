@@ -4,7 +4,7 @@ This repository provides simulation codes for an evolution equation discussed in
 I would appreciate your citing the following paper when you publish your results using this code.
 
 Ohtake, K. (2024). Pattern formation by advection-diffusion in new economic geography. arXiv preprint arXiv:2407.05804.  
-<a href="https://doi.org/10.48550/arXiv.2407.05804" target="_blank" rel="noopener noreferrer">arXiv</a>
+<a href="https://doi.org/10.48550/arXiv.2407.05804" target="_blank" rel="noopener noreferrer">[arXiv](https://doi.org/10.48550/arXiv.2407.05804)</a>
 
 # Overview
 
