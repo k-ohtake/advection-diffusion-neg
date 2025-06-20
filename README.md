@@ -1,6 +1,6 @@
 # advection-diffusion-neg
 
-This repository provides simulation codes for an evolution equation discussed in the following paper.  
+This repository provides simulation codes (evolution equaion and eigenvalue visualization) for the following paper.  
 I would appreciate your citing the following paper when you publish your results using this code.
 
 Ohtake, K. (2024). Pattern formation by advection-diffusion in new economic geography. arXiv preprint arXiv:2407.05804.  
@@ -26,7 +26,8 @@ Then, specify parameters $\mu\in(0,1)$ and $\sigma>1$ in the list used in the in
 For a set of parameters, five simulations are performed for randomly generated initial values.  
 
 ## eigenvalue_QLLU-AD/heatmap_sigma.py
-This is a code for computing eigenvalues of QLLU-AD and drawing heat maps.
+This is a code for computing eigenvalues of QLLU-AD and drawing heat maps.  
+Similarly, other directories named "eigenvalue_X" contain Python programs that plots heatmaps for X model.
 
 Language: Python ver 3.12.4  
 Packages:  
@@ -35,12 +36,10 @@ numpy 2.2.3
 
 ## eigenvalue_QLLU-AD/contour_sigma.py
 
-This is a code for computing eigenvalues of QLLU-AD and plotting critical curves.
+This is a code for computing eigenvalues of QLLU-AD and plotting critical curves.  
+Similarly, other directories named "eigenvalue_X" contain Python programs that plots critical curves for X model.
 
 Language: Python ver 3.12.4  
 Packages:  
 matplotlib ver 3.10.1  
 numpy 2.2.3
-
-Similarly, other directories named "eigenvalue_X" contain Python programs that visualize eigenvalues for X.
-
