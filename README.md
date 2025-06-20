@@ -8,6 +8,7 @@ Ohtake, K. (2024). Pattern formation by advection-diffusion in new economic geog
 
 # Overview
 
+## advection_diffusion_model_autoparam.ipynb
 Language: 
 Julia ver 1.10.2  
 Packages:  
@@ -18,8 +19,28 @@ Format ver. 1.3.7
 IJulia ver. 1.24.2  
 Plots ver. 1.40.2  
 
-# How to use
+### How to use
 
 In the second cell, specify the values of $\tau>0$ as the list used in the outer loop.  
 Then, specify parameters $\mu\in(0,1)$ and $\sigma>1$ in the list used in the inner loop.  
 For a set of parameters, five simulations are performed for randomly generated initial values.  
+
+## eigenvalue_QLLU-AD/heatmap_sigma.py
+This is a code for computing eigenvalues for QLLU-AD and drawing heat maps.
+
+Language: Python ver 3.12.4  
+Packages:  
+matplotlib ver 3.10.1  
+numpy 2.2.3  
+
+## eigenvalue_QLLU-AD/contour_sigma.py
+
+This is a code for computing eigenvalues for QLLU-AD and plotting critical curves.
+
+Language: Python ver 3.12.4  
+Packages:  
+matplotlib ver 3.10.1  
+numpy 2.2.3
+
+Similarly, other directories named "eigenvalue_X" contain Python programs that visualize eigenvalues for X.
+
