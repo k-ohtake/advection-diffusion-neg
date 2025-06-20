@@ -4,8 +4,7 @@ This repository provides code for
 - simulating the evolution equation and
 - visualizing the results of eigenvalue analysis
 
-in the following paper.  
-I would appreciate your citing the following paper when you publish your results using this code.
+in the following paper. I would appreciate your citing the following paper when you publish your results using this code.
 
 Ohtake, K. (2024). Pattern formation by advection-diffusion in new economic geography. arXiv preprint arXiv:2407.05804.  
 <a href="https://doi.org/10.48550/arXiv.2407.05804" target="_blank" rel="noopener noreferrer">https://doi.org/10.48550/arXiv.2407.05804</a>
