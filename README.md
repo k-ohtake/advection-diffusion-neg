@@ -26,7 +26,7 @@ Then, specify parameters $\mu\in(0,1)$ and $\sigma>1$ in the list used in the in
 For a set of parameters, five simulations are performed for randomly generated initial values.  
 
 ## eigenvalue_QLLU-AD/heatmap_sigma.py
-This is a code for computing eigenvalues for QLLU-AD and drawing heat maps.
+This is a code for computing eigenvalues of QLLU-AD and drawing heat maps.
 
 Language: Python ver 3.12.4  
 Packages:  
@@ -35,7 +35,7 @@ numpy 2.2.3
 
 ## eigenvalue_QLLU-AD/contour_sigma.py
 
-This is a code for computing eigenvalues for QLLU-AD and plotting critical curves.
+This is a code for computing eigenvalues of QLLU-AD and plotting critical curves.
 
 Language: Python ver 3.12.4  
 Packages:  
