@@ -1,6 +1,6 @@
 # advection-diffusion-neg
 
-This repository provides simulation codes (evolution equaion and eigenvalue visualization) for the following paper.  
+This repository provides simulation code (evolution equaion and eigenvalue visualization) for the following paper.  
 I would appreciate your citing the following paper when you publish your results using this code.
 
 Ohtake, K. (2024). Pattern formation by advection-diffusion in new economic geography. arXiv preprint arXiv:2407.05804.  
