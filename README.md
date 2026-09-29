@@ -4,7 +4,8 @@ This repository provides code for
 - simulating the evolution equation and
 - visualizing the results of eigenvalue analysis
 
-in the following paper.  
+in the following paper.
+
 I would appreciate your citing the following paper when you publish your results using this code.
 
 ---
